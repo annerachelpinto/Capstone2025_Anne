@@ -1,8 +1,4 @@
-Dataset/
-Dataset_preprocessed/
-pretrained_model/
-new/
-kaggle/
-8th-sem-major-project.ipynb
-breast-cancer-eda.ipynb
-tests.ipynb
+cbis_ddsm_dataset/
+extras/
+trained_model/
+
